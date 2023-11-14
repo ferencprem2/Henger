@@ -1,0 +1,15 @@
+/Users/premferenc/Desktop/C#OOP/Henger/Henger/obj/Debug/net7.0/Henger.csproj.AssemblyReference.cache
+/Users/premferenc/Desktop/C#OOP/Henger/Henger/obj/Debug/net7.0/Henger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/premferenc/Desktop/C#OOP/Henger/Henger/obj/Debug/net7.0/Henger.AssemblyInfoInputs.cache
+/Users/premferenc/Desktop/C#OOP/Henger/Henger/obj/Debug/net7.0/Henger.AssemblyInfo.cs
+/Users/premferenc/Desktop/C#OOP/Henger/Henger/obj/Debug/net7.0/Henger.csproj.CoreCompileInputs.cache
+/Users/premferenc/Desktop/C#OOP/Henger/Henger/bin/Debug/net7.0/Henger
+/Users/premferenc/Desktop/C#OOP/Henger/Henger/bin/Debug/net7.0/Henger.deps.json
+/Users/premferenc/Desktop/C#OOP/Henger/Henger/bin/Debug/net7.0/Henger.runtimeconfig.json
+/Users/premferenc/Desktop/C#OOP/Henger/Henger/bin/Debug/net7.0/Henger.dll
+/Users/premferenc/Desktop/C#OOP/Henger/Henger/bin/Debug/net7.0/Henger.pdb
+/Users/premferenc/Desktop/C#OOP/Henger/Henger/obj/Debug/net7.0/Henger.dll
+/Users/premferenc/Desktop/C#OOP/Henger/Henger/obj/Debug/net7.0/refint/Henger.dll
+/Users/premferenc/Desktop/C#OOP/Henger/Henger/obj/Debug/net7.0/Henger.pdb
+/Users/premferenc/Desktop/C#OOP/Henger/Henger/obj/Debug/net7.0/Henger.genruntimeconfig.cache
+/Users/premferenc/Desktop/C#OOP/Henger/Henger/obj/Debug/net7.0/ref/Henger.dll
